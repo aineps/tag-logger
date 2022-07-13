@@ -1,0 +1,15 @@
+++ #tag1
+
+Write an entry to a tag.
+
+
+
+++ #tag2, #tag3
+
+Or to multiple tags.
+
+
+
+++ #example-log
+
+Then send the entry to a tag specific, dated log.
